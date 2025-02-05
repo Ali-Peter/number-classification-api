@@ -52,6 +52,7 @@ GET https://number-classification-api-ihpu.onrender.com/api/classify-number?numb
 
 # Run the API locally
   node index.js
+  
   The API will be available at http://localhost:3000/api/classify-number?number=371
 
 ## DEPLOYMENT
