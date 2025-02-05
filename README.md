@@ -17,7 +17,7 @@ A simple RESTful API that classifies numbers based on their mathematical propert
   number                integer         The number to classify
 
 # Example Request
-GET https://your-app-name.onrender.com/api/classify-number?number=371
+GET https://number-classification-api-ihpu.onrender.com/api/classify-number?number=371
 
 # Example Response (200 OK)
 {
