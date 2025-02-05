@@ -44,6 +44,7 @@ GET https://number-classification-api-ihpu.onrender.com/api/classify-number?numb
 ## INSTALLATION & SETUP
  # Clone the repository
   git clone https://github.com/Ali-Peter/number-classification-api
+  
   cd number-classifier
 
 # Install dependencies
